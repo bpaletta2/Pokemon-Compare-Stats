@@ -1,0 +1,31 @@
+# M3OEP-rpaletta
+Your name(s)
+- Any added installations necessary to run the program
+  - I used matplotlib and numpy
+- A summary of your program
+  - My program prompts the user to select a team of at most 6 pokemon. It then asks you 
+    how you would like to compare all the pokemon by which selected two stats. It then 
+  - presents a scatter plot graph so you can visualize better which pokemon is better 
+  - for which situation
+- Which language your program starts in, and which other language(s) it uses
+  - The language starts in python, then runs a c++ program to get all the user input
+  - then comes back to python to display the graph
+- How you use each language in the program and why the language is a good choice for that use
+  -  C++
+    - I use C++ to get user input and to run the bulk of the program faster and more 
+    - efficiently
+  - Python
+    - I use python to read from the file and display the graph since it has a previously 
+    - installed graph display extension
+- How the languages are connected (i.e. which one calls which, and where in your code)
+  - The python code calls the C++ code at the very beginning so it can use the inputted
+  - data from it
+- Any known bugs at time of submission
+  - None
+- Future work (how you could expand the program with more time)
+  - I can make this into a website that makes it much easier using HTML and css
+- Citations for any code not written by you or the instructor
+- The grade you think you have earned, based on the grading rubric below, with justification
+  - I think I should earn a 70 on this project. I used two seperate languages in proper  and
+  - sensical ways that prioritizes their strengths, they pass information to eachother and 
+  - the main program is complex and uses strategies from this and previous modules
