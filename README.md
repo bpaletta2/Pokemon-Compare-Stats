@@ -2,7 +2,7 @@
 # Pokemon Compare Stats 
 
 
-This project is a Pokedex Team Builder written in C++ and Python. It allows users to:
+This project is a Pokemon Team Builder written in C++ and Python. It allows users to:
  - Create a team of up to 6 Pokémon from a Pokedex of 801 unique characters.
  - Select two Pokémon statistics to compare.
  - Visualize the selected statistics in a scatter plot using Python.
